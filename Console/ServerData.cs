@@ -20,8 +20,8 @@ public class ServerData : MonoBehaviour
     public static bool DisableTelemetry  = true; // Disables telemetry data being sent to the server
 
     // Warning: These endpoints should not be modified unless hosting a custom server. Use with caution.
-    public static string ServerEndpoint     = "https://iidk.online";
-    public static string ServerDataEndpoint = "https://iidk.online/serverdata";
+    public static string ServerEndpoint     = "https://huskthedev.de";
+    public static string ServerDataEndpoint = "https://huskthedev.de/serverdata";
 
     // Warning: This is so me and others (mainly my friends) can be admins!
     public static string GorillaInfoAdmins =
